@@ -1,14 +1,21 @@
 ---This script was created by Hyun.---
 
-*Ex) 
-[1] loadstring(game:HttpGet("https://raw.githubusercontent.com/Hyun8941/Roblox/main/xFrost%20Notify/Notify%20V1.lua", true))()
+*Ex)
 
-[3] Notify("xFrost","Hyun is so Cute OwO", 5)
+	[1] loadstring(game:HttpGet("https://raw.githubusercontent.com/Hyun8941/Roblox/main/xFrost%20Notify/Notify%20V1.lua", true))()
+
+	[3] Notify("xFrost","Hyun is so Cute OwO", 5)
+
+
+
+
+---DETAIL---
 
 #Korean (한국어)
 
 먼저 스크립트 펑션을 불러오기 위해
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hyun8941/Roblox/main/xFrost%20Notify/Notify%20V1.lua", true))()
+
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hyun8941/Roblox/main/xFrost%20Notify/Notify%20V1.lua", true))()
 
 를 해줍니다.
 
@@ -19,7 +26,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hyun8941/Roblox/main/
 #English(영어)
 
 First of all, to bring up the script function.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hyun8941/Roblox/main/xFrost%20Notify/Notify%20V1.lua", true))()
+	
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hyun8941/Roblox/main/xFrost%20Notify/Notify%20V1.lua", true))()
 
 Next, Notify("Title","Description",Time(Sec))
 
