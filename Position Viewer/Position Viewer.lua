@@ -26,7 +26,7 @@ local TextLabel = Instance.new("TextLabel")
 --Properties:
 
 HyunsPV.Name = "Hyun's PV"
-HyunsPV.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+HyunsPV.Parent = game.CoreGui
 HyunsPV.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 MainForm.Name = "MainForm"
