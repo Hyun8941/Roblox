@@ -1,4 +1,4 @@
-----Hyun#2427 : 오류문의 부탁드립니다. 또 추가 스크립트도 문의 부탁드려요 https://discord.com/invite/2NuDwcSpp8 : 디스코드
+----Hyun#2427 : 오류문의 부탁드립니다. 또 추가 스크립트도 문의 부탁드려요 https://discord.com/invite/2NuDwcSpp8 : 디스코드 http://discord.hyunxfrost.kro.kr/
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
